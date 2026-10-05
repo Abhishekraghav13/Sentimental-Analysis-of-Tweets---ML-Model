@@ -1,5 +1,5 @@
 # Sentimental-Analysis-of-Tweets---ML-Model
-# Twitter Sentiment Analysis using Machine Learning
+
 
 A Machine Learning project that classifies tweets as **Positive** or **Negative** using Natural Language Processing (NLP) and Logistic Regression.
 
